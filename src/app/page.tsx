@@ -204,9 +204,9 @@ export default function LandingPage() {
       useInvertedBackground={false}
       team={[
         {
-          id: "founder",          name: "Alfonso Reyes",          role: "Founder & Lead Strategist",          imageSrc: "http://img.b2bpic.net/free-photo/portrait-sexy-handsome-fashion-male-model-man-dressed-elegant-suit-black-studio-lights-background-glasses_158538-9629.jpg",          imageAlt: "Headshot of Ava Sterling, Founder & Lead Strategist"},
+          id: "founder",          name: "Alfonso Reyes",          role: "Founder & Lead Strategist",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EyZeVbUcpEwRh19IwgHafl3gGB/uploaded-1781303744224-brpyp0ja.png",          imageAlt: "Headshot of Ava Sterling, Founder & Lead Strategist"},
         {
-          id: "designer",          name: "Marcus Chen",          role: "Lead Web Designer",          imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-man-darkroom_23-2149893827.jpg",          imageAlt: "Headshot of Marcus Chen, Lead Web Designer"},
+          id: "designer",          name: "Marcus Chen",          role: "Marketing and SEO Specialist",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EyZeVbUcpEwRh19IwgHafl3gGB/uploaded-1781303744224-8g6cbfp1.png",          imageAlt: "Headshot of Marcus Chen, Lead Web Designer"},
         {
           id: "strategist",          name: "Sophia Rodriguez",          role: "Marketing & SEO Specialist",          imageSrc: "http://img.b2bpic.net/free-photo/closeup-content-pretty-businesswoman-glasses_1262-1740.jpg",          imageAlt: "Headshot of Sophia Rodriguez, Marketing & SEO Specialist"},
       ]}
