@@ -206,9 +206,9 @@ export default function LandingPage() {
         {
           id: "founder",          name: "Alfonso Reyes",          role: "Founder & Lead Strategist",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EyZeVbUcpEwRh19IwgHafl3gGB/uploaded-1781303744224-brpyp0ja.png",          imageAlt: "Headshot of Ava Sterling, Founder & Lead Strategist"},
         {
-          id: "designer",          name: "Marcus Chen",          role: "Marketing and SEO Specialist",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EyZeVbUcpEwRh19IwgHafl3gGB/uploaded-1781303744224-8g6cbfp1.png",          imageAlt: "Headshot of Marcus Chen, Lead Web Designer"},
+          id: "designer",          name: "Marcus Chen",          role: "Marketing and SEO Specialist",          imageSrc: "https://img.b2bpic.net/premium-photo/young-man-with-afro-hair-wearing-sunglasses-stairs-city-urban-fashion-cool-concept-hipster-guy-with-stylish_242111-29977.jpg?id=48874558",          imageAlt: "Headshot of Marcus Chen, Lead Web Designer"},
         {
-          id: "strategist",          name: "Sophia Rodriguez",          role: "Marketing & SEO Specialist",          imageSrc: "http://img.b2bpic.net/free-photo/closeup-content-pretty-businesswoman-glasses_1262-1740.jpg",          imageAlt: "Headshot of Sophia Rodriguez, Marketing & SEO Specialist"},
+          id: "strategist",          name: "Trevor Wayne ",          role: "Marketing & SEO Specialist",          imageSrc: "https://img.b2bpic.net/premium-photo/spanish-cool-man-with-tattoos-sunglasses_665346-79047.jpg?id=138887831",          imageAlt: "Headshot of Sophia Rodriguez, Marketing & SEO Specialist"},
       ]}
       title="Our Commitment to Craftsmanship"
       description="FNZ Marketing was founded on the principle of delivering unparalleled digital craftsmanship. We believe every local business deserves a website that truly reflects its value and vision, built with meticulous care and strategic insight."
