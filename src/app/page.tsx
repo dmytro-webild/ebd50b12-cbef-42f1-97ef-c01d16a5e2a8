@@ -62,7 +62,7 @@ export default function LandingPage() {
       description="Elevate your online presence with custom-built designs meticulously tailored to reflect your unique brand and achieve your specific business goals."
       buttons={[
         {
-          text: "Schedule a Consultation",          href: "mailto:fnz.businessmarketing@gmail.com"},
+          text: "Schedule a Consultation",          href: "mailto:fnz.businessmarketing@gmail.com?subject=Consultation Request from FNZ Marketing Website"},
       ]}
       imageSrc="http://img.b2bpic.net/free-photo/cyber-intelligence-secure-operations-center-with-usa-flag-big-screen_482257-105777.jpg"
       imageAlt="Sleek desktop and tablet showcasing a premium website design"
