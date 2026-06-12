@@ -41,6 +41,8 @@ export default function LandingPage() {
         {
           name: "Portfolio",          id: "#portfolio"},
         {
+          name: "Our Philosophy",          id: "#intro"},
+        {
           name: "About",          id: "#about"},
         {
           name: "Testimonials",          id: "#testimonials"},
