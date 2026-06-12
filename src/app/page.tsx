@@ -139,7 +139,7 @@ export default function LandingPage() {
       plans={[
         {
           id: "basic",          badge: "Basic",          badgeIcon: Sparkles,
-          price: "Starting at $1,500",          subtitle: "Essential Online Presence",          buttons: [
+          price: "Starting at $500",          subtitle: "Essential Online Presence",          buttons: [
             {
               text: "Get Started",              href: "#contact"},
           ],
@@ -148,7 +148,7 @@ export default function LandingPage() {
         },
         {
           id: "standard",          badge: "Standard",          badgeIcon: Star,
-          price: "Starting at $3,500",          subtitle: "Expanded Digital Footprint",          buttons: [
+          price: "Starting at $1,000",          subtitle: "Expanded Digital Footprint",          buttons: [
             {
               text: "Get Started",              href: "#contact"},
           ],
@@ -157,7 +157,7 @@ export default function LandingPage() {
         },
         {
           id: "premium",          badge: "Premium",          badgeIcon: Award,
-          price: "Starting at $7,000",          subtitle: "Full-Service Digital Solution",          buttons: [
+          price: "Starting at $2,000",          subtitle: "Full-Service Digital Solution",          buttons: [
             {
               text: "Get Started",              href: "#contact"},
           ],
@@ -204,7 +204,7 @@ export default function LandingPage() {
       useInvertedBackground={false}
       team={[
         {
-          id: "founder",          name: "Ava Sterling",          role: "Founder & Lead Strategist",          imageSrc: "http://img.b2bpic.net/free-photo/portrait-sexy-handsome-fashion-male-model-man-dressed-elegant-suit-black-studio-lights-background-glasses_158538-9629.jpg",          imageAlt: "Headshot of Ava Sterling, Founder & Lead Strategist"},
+          id: "founder",          name: "Alfonso Reyes",          role: "Founder & Lead Strategist",          imageSrc: "http://img.b2bpic.net/free-photo/portrait-sexy-handsome-fashion-male-model-man-dressed-elegant-suit-black-studio-lights-background-glasses_158538-9629.jpg",          imageAlt: "Headshot of Ava Sterling, Founder & Lead Strategist"},
         {
           id: "designer",          name: "Marcus Chen",          role: "Lead Web Designer",          imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-man-darkroom_23-2149893827.jpg",          imageAlt: "Headshot of Marcus Chen, Lead Web Designer"},
         {
@@ -224,15 +224,15 @@ export default function LandingPage() {
       author="Maria S. - Boutique Owner"
       avatars={[
         {
-          src: "http://img.b2bpic.net/free-photo/portrait-businessman-cartoon-style_23-2151134099.jpg",          alt: "Avatar of a female CEO"},
+          src: "https://img.b2bpic.net/free-photo/business-people-brainstorming-ideas-plan-work-report-with-data-charts-graphs-analyzing-research-information-create-successful-project-office-partnership-collaboration_482257-47596.jpg?id=30472738",          alt: "Avatar of a female CEO"},
         {
-          src: "http://img.b2bpic.net/free-photo/close-up-portrait-smiling-blonde-businesswoman-formal-dressed-isolated-dark-textured-background_613910-4617.jpg",          alt: "Avatar of a male small business owner"},
+          src: "https://img.b2bpic.net/free-photo/young-happy-businesswoman-reading-reports-while-going-through-paperwork-working-with-colleague-office_637285-1055.jpg?id=25592515",          alt: "Avatar of a male small business owner"},
         {
-          src: "http://img.b2bpic.net/free-photo/portrait-woman-playing-poker-casino_23-2151831029.jpg",          alt: "Avatar of a female marketing manager"},
+          src: "https://img.b2bpic.net/free-photo/fashion-portrait-young-elegant-woman_1328-2683.jpg?id=6022007",          alt: "Avatar of a female marketing manager"},
         {
-          src: "http://img.b2bpic.net/free-photo/businessman-with-silly-face_1154-110.jpg",          alt: "Avatar of a male product manager"},
+          src: "https://img.b2bpic.net/free-photo/men-with-tablet-analyze-company-reports_482257-120248.jpg?id=416763975",          alt: "Avatar of a male product manager"},
         {
-          src: "http://img.b2bpic.net/free-photo/medium-shot-smiley-woman-work_23-2149097959.jpg",          alt: "Avatar of a female startup founder"},
+          src: "https://img.b2bpic.net/premium-photo/business-team-working-with-new-startup-project-plan-discussion-information-financial-strategy-with-laptop-digital-tablet-modern-business-lounge_265022-78658.jpg?id=155643229",          alt: "Avatar of a female startup founder"},
       ]}
       ratingAnimation="blur-reveal"
       avatarsAnimation="blur-reveal"
